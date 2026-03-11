@@ -28,4 +28,4 @@ data before proceeding.
 ## Need Help?
 If you're unable to delete your account through the app or need
 further assistance, contact us at:
-📧 [your-support-email@domain.com]
+📧 [raoufbakhti32@gmail.com]
